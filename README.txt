@@ -2,7 +2,20 @@
 AUTHOR:
 DESIGNED & DEVELOPED by Ramon and Enrique
 
+Youtube
+TED Talk https://www.youtube.com/watch?v=VQRjouwKDlU
 
+JamesESL Teaching English https://www.youtube.com/watch?v=hC4V1HiQ7to
+
+Web Pages
+Google Images
+Wikipedia
+Google Translate API
+Git Hub
+Facebook
+Twitter
+
+Facebook Page - https://www.facebook.com/LearnAcademy-246161909184106/?notif_t=page_admin&notif_id=1492401385455806
 
 CREDITS:
 
