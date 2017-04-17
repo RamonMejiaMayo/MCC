@@ -1,13 +1,7 @@
 
-TITLE: 
-Learn - 100% Fully Responsive Free HTML5 Bootstrap Template
-
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Ramon and Enrique
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -53,4 +47,3 @@ http://markdalgleish.com/projects/stellar.js/
 
 Demo Images:
 http://unsplash.com
-
